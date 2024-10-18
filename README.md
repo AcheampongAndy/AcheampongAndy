@@ -2,8 +2,8 @@
 I'm a **Software Engineer**, **Data Scientist**, and **Bioinformatics Enthusiast** passionate about multi-omics data analysis and statistical genetics. 
 
 ### 🔬 Current Projects:
-- [Bible Block]() - A platform for exploring and engaging with the Bible.
-- [Rhinovirus Genotyping]() - Web app for interpreting rhinovirus sequences.
+- [Bible Block](https://github.com/AcheampongAndy/Bible_block) - A platform for exploring and engaging with the Bible.
+- [Rhinovirus Genotyping](https://github.com/AcheampongAndy/Rhinovirus_Classification_Web_App) - Web app for interpreting rhinovirus sequences.
 
 ### 🛠 Skills & Technologies:
 - **Languages**: Python, R, JavaScript, SQL, Bash
